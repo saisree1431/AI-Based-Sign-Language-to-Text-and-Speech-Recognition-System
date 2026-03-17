@@ -1,4 +1,4 @@
-# 🤟An AI-Based Sign Language Recognition System (Text & Speech Conversion)
+# 🤟An AI-Based Sign Language Recognition System for Real-Time Text and Speech Conversion
 
 ## 🧠 The Story Behind This Project  
 Communication is a basic human need, but for people who are hearing or speech impaired, interacting with others can be difficult. Sign language is commonly used by such individuals, but not everyone understands it.
